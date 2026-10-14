@@ -6,11 +6,11 @@ Este repositório contém a documentação técnica, especificação funcional d
 
 ## 1. Visão Geral do Projeto
 
-O **NexaVarejo** é uma plataforma de acompanhamento operacional desenhada para simplificar o monitoramento de processos críticos do fluxo central de trabalho (validação de dados, processamento de documentos e sincronização de lotes).
+O **NexaVarejo** é uma plataforma de acompanhamento operacional desenhada para simplificar o monitoramento de processos, críticos do fluxo central de trabalho (validação de dados, processamento de documentos e sincronização de lotes).
 
 ### Objetivos do MVP:
 * Consolidar o status de execução de processos em tempo real.
-* Fornecer sinalização clara e acessível de pendências e erros operacionais.
+* Fornecer sinalização, clara e acessível de pendências e erros operacionais.
 * Garantir autonomia de navegação e decisão para operadores com diferentes níveis de letramento digital ou limitações visuais/cognitivas.
 
 ### Alinhamento com os Objetivos de Desenvolvimento Sustentável (ODS):
